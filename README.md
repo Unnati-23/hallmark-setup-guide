@@ -4,6 +4,6 @@ A step-by-step guide to installing [Hallmark](https://github.com/Nutlope/hallmar
 
 Live guide: https://unnati-23.github.io/hallmark-setup-guide/
 
-By Unnati Tripathi, CEO & Co-founder, Master Labs · Instagram [@unnati_23](https://www.instagram.com/unnati_23/)
+By Unnati Tripathi, CEO & Co-founder, Master Labs · Instagram [@aiwithunnati](https://www.instagram.com/aiwithunnati/)
 
 © 2026 Unnati Tripathi. All rights reserved.
